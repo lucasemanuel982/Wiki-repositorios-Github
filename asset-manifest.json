@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/static/js/main.9714171b.js",
-    "static/media/github.png": "/static/media/github.4d74fd76ac168df7723c.png",
-    "index.html": "/index.html",
-    "main.9714171b.js.map": "/static/js/main.9714171b.js.map"
+    "main.js": "/Wiki-repositorios-Github/static/js/main.35183036.js",
+    "static/media/github.png": "/Wiki-repositorios-Github/static/media/github.4d74fd76ac168df7723c.png",
+    "index.html": "/Wiki-repositorios-Github/index.html",
+    "main.35183036.js.map": "/Wiki-repositorios-Github/static/js/main.35183036.js.map"
   },
   "entrypoints": [
-    "static/js/main.9714171b.js"
+    "static/js/main.35183036.js"
   ]
 }
