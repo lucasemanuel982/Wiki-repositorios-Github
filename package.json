@@ -1,6 +1,7 @@
 {
-  "name": "desafio02-github-wiki",
+  "name": "Wiki-repositorios-Github",
   "version": "0.1.0",
+  "homepage":"Wiki-repositorios-Github/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
