@@ -18,14 +18,15 @@ function App() {
       const {data} = await api.get(`repos/${currentRepo}`)
       if(data.id){
         const isExist = repos.find(repo => repo.id === data.id);
-        
         if(!isExist){
           setRepos(prev => [...prev, data]);
           setCurrentRepo('');
           return
+        }else{
+          alert('Repositório Já se encontra Cadastrado!');
+          return
         }
       }
-      alert('Repositório Já se encontra Cadastrado!');
     } catch (error) {
       alert('Repositório Não Encontrado!');
       
